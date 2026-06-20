@@ -3,7 +3,7 @@ import { useApp } from './context/AppContext'
 import Layout from './components/layouts/Layout'
 
 import Login      from './pages/Login'
-import Signup     from './pages/Signup'
+import Signup     from './pages/SignUp'
 import Dashboard  from './pages/Dashboard'
 import Expenses   from './pages/Expenses'
 import AddExpense from './pages/AddExpense'
